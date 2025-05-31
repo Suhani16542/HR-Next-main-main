@@ -100,10 +100,10 @@ Before you proceed, ensure you have the following software installed:
 
 ## Contributors
 
-##### Mr.Shiva Gautam
+##### Mr.Praduny Patel
 - Contributions: Multirole Authentication with Persmission, User Management, Attendance System.
 
-##### Mr.Hrishikesh Rathore
+##### Miss Suhani Yadav
 - Contributions: Staff Management, Leave Management, Payroll system.
 
 ##### Mr.Shaurya Chauhan
