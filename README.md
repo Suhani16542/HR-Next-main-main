@@ -103,7 +103,7 @@ Before you proceed, ensure you have the following software installed:
 ##### Mr.Praduny Patel
 - Contributions: Multirole Authentication with Persmission, User Management, Attendance System.
 
-##### Miss Suhani Yadav
+##### Miss Suhani Yadav (https://github.com/Suhani16542/HR-Next-main-main.git)
 - Contributions: Staff Management, Leave Management, Payroll system.
 
 ##### Mr.Shaurya Chauhan
